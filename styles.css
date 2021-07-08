@@ -1,0 +1,46 @@
+#first-section{
+    color: whitesmoke;
+    background-color: #00897B;
+    width: 200px;
+    margin-top: 50px;
+    margin-left: 22px;
+    padding: 5px 175px 5px 120px;
+
+}
+#second-section{
+    color:whitesmoke;
+    background-color:darkslategray;
+    width: 400px;
+    margin: 50px 20px 50px 20px;
+    padding: 5px 50px 5px 50px;
+}
+#third-section{
+    color: whitesmoke;
+    background-color: dimgray;
+    width: 200px;
+    margin: 50px 20px 50px 20px;
+    padding: 15px 150px 15px 150px;
+}
+.rectangles{
+    border: 5px black solid;
+    border-radius: 100px;
+}
+h1, p{
+    font-family: 'Architects Daughter', cursive;
+    text-align: left;
+
+}
+.italic{
+    font-style: italic;
+    font-weight: bold;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    text-decoration: underline;
+}
+a:visited{
+    color: green;
+}
